@@ -1,2 +1,5 @@
 # hello-word
-Just another repository
+
+Hi Humans!
+
+XieJin here.I am learning Github.
